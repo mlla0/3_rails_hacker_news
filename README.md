@@ -15,7 +15,7 @@
 
 ### Composition and information
 
-This app is composed of two tables : `courses` and `lessons`
+This app is composed of four tables : `users`, `links`, `comment1s`, and `comment2s`
 
 They are composed by the the following columns :
 
