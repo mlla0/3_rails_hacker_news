@@ -8,9 +8,10 @@
 
 1. Git clone the repository to your computer
 2. In your terminal, run the `bundle install` command
-3. Then, run the `rails db:seed` command
-4. You can now open your rails console by typing `rails console`
-5. To display the **users table**, type `tp User.all` in the rails console. To display the **links table**, type `tp Link.all` in the rails console. To display the **comment1s table**, type `tp Comment1.all` in the rails console. To display the **comment2s table**, type `tp Comment2.all` in the rails console.
+3. Run the `rails db:migrate` command
+4. Then, run the `rails db:seed` command
+5. You can now open your rails console by typing `rails console`
+6. To display the **users table**, type `tp User.all` in the rails console. To display the **links table**, type `tp Link.all` in the rails console. To display the **comment1s table**, type `tp Comment1.all` in the rails console. To display the **comment2s table**, type `tp Comment2.all` in the rails console.
 
 
 ### Composition and information
